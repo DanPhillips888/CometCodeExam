@@ -16,4 +16,6 @@ with programming. I see it every day and I love the idea it can be made better w
 To run this, copy the files to a local directory , then drag and drop the index.html file into a browser. Open the developer tools 
 to see the console for feedback from the code as well.
 
+To adjust the road CPM (cars per minute) value, open script.js and change the first 4 variables as you like.
+
 Thanks so much for the opportunity! This is my first code exam from a job application so its been a blast!
