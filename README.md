@@ -8,6 +8,7 @@ Currently this is as far as I got in the timeframe. I would of course like to do
 I have identified the problem and built basic functionality to get the numbers working. 
 
 Further Development would involve adding an input to the html interface so that values can be changed in the browser by the user.
+## 5 hours more coding to achieve most recent commit with input fields that update the Score UI.
 
 I didn't have time to implement the Extensions but I will use this as a study tool to further my development and it is an 
 interesting assignment in which I have personal interest in. It sounds funny but I like the idea of making road intersections better
